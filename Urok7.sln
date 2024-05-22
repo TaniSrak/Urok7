@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Urok7", "Urok7.csproj", "{93F72006-E01B-4F23-BF77-FD73232324CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93F72006-E01B-4F23-BF77-FD73232324CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93F72006-E01B-4F23-BF77-FD73232324CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93F72006-E01B-4F23-BF77-FD73232324CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93F72006-E01B-4F23-BF77-FD73232324CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0E930CF-8F7B-443F-8B72-DD1556E06682}
+	EndGlobalSection
+EndGlobal
